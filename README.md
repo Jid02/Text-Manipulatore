@@ -94,4 +94,5 @@ npm start
 ## 🧑‍💻 Developer
 
 **Developed by:** [Jidnyasa Pawar](https://github.com/Jid02)
+
 💬 *Passionate about building intuitive and useful web applications.*
